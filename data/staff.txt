@@ -1,0 +1,2 @@
+S001|Ahmad Khan|0301-1111111|ahmad@mail.com|pass123|Salesman|Lahore|0
+SV001|Ali Raza|0302-2222222|ali@mail.com|pass456|Surveyor|Vehicles|0

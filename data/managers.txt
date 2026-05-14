@@ -1,0 +1,1 @@
+MGR001|Admin Manager|0300-0000000|admin@insurance.com|admin123

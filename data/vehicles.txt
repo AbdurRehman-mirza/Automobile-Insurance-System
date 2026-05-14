@@ -1,0 +1,1 @@
+V001|C001|Toyota|Corolla|2024|LHR-1234|White

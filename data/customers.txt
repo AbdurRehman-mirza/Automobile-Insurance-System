@@ -1,0 +1,3 @@
+C001|Saad|Nasheman Iqbal|0301-9876543|saadqamar@mail.com|27-04-2026
+C002|Usman|Gulberg|0301-123212321|usman@mail.com|12-05-2026
+C003|AbdurRehman|Wapda town|0301-1420372|abdurrehmanmirza@gmail.com|12-05-2026
