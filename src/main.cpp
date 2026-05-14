@@ -47,7 +47,7 @@ string generateID(string prefix, FileHandler& fh) {
     sprintf_s(buf, sizeof(buf), "%03d", next);
     return prefix + string(buf);
 }
-
+//function for separator
 void separator() {
     cout << "\n========================================\n";
 }
